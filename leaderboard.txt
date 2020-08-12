@@ -1,0 +1,6 @@
+Ishaan Dham,6
+John Doe,0
+Pickachu,6
+Jack Daniel,5
+Boris Boris,6
+Tony Stark,3
